@@ -17,6 +17,14 @@
   "tokens": [
     {
       "chainId": 1907,
+      "address": "0x9631be8566fC71d91970b10AcfdEe29F21Da6C27",
+      "name": "Intelligent Monsters",
+      "symbol": "IMON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/bitci/tokens/0x9631be8566fC71d91970b10AcfdEe29F21Da6C27/logo.svg"
+    },
+    {
+      "chainId": 1907,
       "address": "0xe0D0f25b5FCFa4d3EDD9C2186451d9E04C4B9f11",
       "name": "Wrapped BITCI",
       "symbol": "WBITCI",
