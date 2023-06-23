@@ -49,6 +49,14 @@
     },
     {
       "chainId": 1907,
+      "address": "0xFe56F9063F4B2c852E60Ef4c9F34377fe276D155",
+      "name": "BITCI EDU TOKEN",
+      "symbol": "BEDU",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BEDU.svg"
+    },
+    {
+      "chainId": 1907,
       "name": "McLaren F1 Fan Token",
       "symbol": "MCL",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MCL.svg",
