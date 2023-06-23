@@ -33,6 +33,22 @@
     },
     {
       "chainId": 1907,
+      "address": "0x02c7b38acc83d87680b740498ef7c90b54ceb062",
+      "name": "NeuroPulse AI",
+      "symbol": "NPAI",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/NPAI.svg"
+    },
+    {
+      "chainId": 1907,
+      "address": "0x0D741f8199Bd5425c5fb41eb66FcDFdf969A6D80",
+      "name": "NFT DELI",
+      "symbol": "DELI",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/DELI.svg"
+    },
+    {
+      "chainId": 1907,
       "name": "McLaren F1 Fan Token",
       "symbol": "MCL",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MCL.svg",
